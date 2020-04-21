@@ -1,1 +1,0 @@
-TinderCards for Android JAVA
